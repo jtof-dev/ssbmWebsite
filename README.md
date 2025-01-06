@@ -2,9 +2,9 @@
 
 - a website replicating the look of Super Smash Bros Melee's menus
 - theoretically, the website will look like these screenshots:
-  <img src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/titleScreen.png"></img>
-  <img src="./ssbmWebsite/tree/master/item/assets/screenshots/mainMenu.png"></img>
-  <img src="./ssbmWebsite/tree/master/item/assets/screenshots/specialMeleeMenu.png"></img>
+  <img width="300px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/titleScreen.webp"></img>
+  <img width="300px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/mainMenu.webp"></img>
+  <img width="300px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/SpecialMeleeMenu.webp"></img>
 
 ## [assets/](./assets/)
 
