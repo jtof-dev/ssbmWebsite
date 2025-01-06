@@ -17,25 +17,9 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>
-      <div style="display: flex; justify-content: center;">
-        <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/titleScreen.webp">
-      </div>
-    </td>
-    <td>
-      <div style="display: flex; justify-content: center;">
-        <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/mainMenu.webp">
-      </div>
-    </td>
-    <td>
-      <div style="display: flex; justify-content: center;">
-        <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/specialMeleeMenu.webp">
-      </div>
-    </td>
-  </tr>
-</table>
+| ![Title Screen](https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/titleScreen.webp) | ![Main Menu](https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/mainMenu.webp) | ![Special Melee Menu](https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/specialMeleeMenu.webp) |
+| :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+|                                              **Title Screen**                                               |                                             **Main Menu**                                             |                                                 **Special Melee Menu**                                                 |
 
 ## [assets/](./assets/)
 
