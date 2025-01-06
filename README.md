@@ -1,8 +1,10 @@
-# site
+# ssbm website
 
-- I am trying to make a website themed after super smash bros melee, and experiment with sourcehut's website hosting.
+- a website replicating the look of Super Smash Bros Melee's menus
+- theoretically, the website will look like these screenshots:
+  <img src="./assets/screenshots/titleScreen.png"></img>
 
-## assets/
+## [assets/](./assets/)
 
 - this directory contains a raw dump of (most of) the textures I will use for the website. the assets are unsorted and often in multiple pieces currently
 
