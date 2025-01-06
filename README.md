@@ -6,13 +6,13 @@
 <table>
   <tr>
     <td style="text-align: center;">
-      <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/titleScreen.webp"></img>
+      <img style="display: block; margin: auto;" width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/titleScreen.webp">
     </td>
     <td style="text-align: center;">
-      <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/mainMenu.webp"></img>
+      <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/mainMenu.webp">
     </td>
     <td style="text-align: center;">
-      <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/specialMeleeMenu.webp"></img>
+      <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/specialMeleeMenu.webp">
     </td>
   </tr>
 </table>
