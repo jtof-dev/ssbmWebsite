@@ -8,6 +8,7 @@
 
 ## todo
 
-- [ ] combine button assets to make template button
+- combine button assets to make template button
   - don't forget about the breathing glow effect around the buttons
-- [ ] use css hand as cursor
+- use css hand as cursor
+- migrate to `todo.sr.ht/~andybabcock/site` for todo tracking
