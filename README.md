@@ -3,9 +3,13 @@
 - a website replicating the look of Super Smash Bros Melee's menus
 - theoretically, the website will look like these screenshots:
 
-  <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/titleScreen.webp"></img>
-  <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/mainMenu.webp"></img>
-  <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/specialMeleeMenu.webp"></img>
+<table>
+  <tr>
+    <td><img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/titleScreen.webp"></img></td>
+    <td><img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/mainMenu.webp"></img></td>
+    <td><img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/specialMeleeMenu.webp"></img></td>
+  </tr>
+</table>
 
 ## [assets/](./assets/)
 
