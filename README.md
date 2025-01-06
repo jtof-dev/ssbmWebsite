@@ -5,9 +5,15 @@
 
 <table>
   <tr>
-    <td><img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/titleScreen.webp"></img></td>
-    <td><img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/mainMenu.webp"></img></td>
-    <td><img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/specialMeleeMenu.webp"></img></td>
+    <td text-align="center">
+      <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/titleScreen.webp"></img>
+    </td>
+    <td text-align="center">
+      <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/mainMenu.webp"></img>
+    </td>
+    <td text-align="center">
+      <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/specialMeleeMenu.webp"></img>
+    </td>
   </tr>
 </table>
 
