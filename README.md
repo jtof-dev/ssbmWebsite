@@ -17,6 +17,26 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <div style="display: flex; justify-content: center;">
+        <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/titleScreen.webp">
+      </div>
+    </td>
+    <td>
+      <div style="display: flex; justify-content: center;">
+        <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/mainMenu.webp">
+      </div>
+    </td>
+    <td>
+      <div style="display: flex; justify-content: center;">
+        <img width="200px" src="https://git.sr.ht/~andybabcock/ssbmWebsite/blob/master/assets/screenshots/specialMeleeMenu.webp">
+      </div>
+    </td>
+  </tr>
+</table>
+
 ## [assets/](./assets/)
 
 - this directory contains a raw dump of (most of) the textures I will use for the website. the assets are unsorted and often in multiple pieces currently
